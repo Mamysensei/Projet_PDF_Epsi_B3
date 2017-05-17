@@ -16,7 +16,7 @@ public class PopUp extends JDialog {
         
         // appel de la méthode de fusion des PDF
         OpenFile newFile = new OpenFile();
-        newFile.mergeFiles(absolutePath, answer, fileList);
-        
+        newFile.mergeFiles(absolutePath, answer, fileList);       
     }
 }
+ 
