@@ -4,5 +4,20 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="lib" path="/Users/Jules/Downloads/pdfbox-app-2.0.5 (1).jar"/>
 	<classpathentry kind="lib" path="/Users/Jules/Downloads/jPDFViewer.v2016R1.01.jar"/>
+	<classpathentry kind="lib" path="/Users/Jules/Desktop/ICEpdf-pro-6.2.4-bin-trial/icepdf/lib/batik-awt-util.jar"/>
+	<classpathentry kind="lib" path="/Users/Jules/Desktop/ICEpdf-pro-6.2.4-bin-trial/icepdf/lib/batik-dom.jar"/>
+	<classpathentry kind="lib" path="/Users/Jules/Desktop/ICEpdf-pro-6.2.4-bin-trial/icepdf/lib/batik-svg-dom.jar"/>
+	<classpathentry kind="lib" path="/Users/Jules/Desktop/ICEpdf-pro-6.2.4-bin-trial/icepdf/lib/batik-svggen.jar"/>
+	<classpathentry kind="lib" path="/Users/Jules/Desktop/ICEpdf-pro-6.2.4-bin-trial/icepdf/lib/batik-util.jar"/>
+	<classpathentry kind="lib" path="/Users/Jules/Desktop/ICEpdf-pro-6.2.4-bin-trial/icepdf/lib/batik-xml.jar"/>
+	<classpathentry kind="lib" path="/Users/Jules/Desktop/ICEpdf-pro-6.2.4-bin-trial/icepdf/lib/bcpkix-jdk15on.jar"/>
+	<classpathentry kind="lib" path="/Users/Jules/Desktop/ICEpdf-pro-6.2.4-bin-trial/icepdf/lib/bcprov-ext-jdk15on.jar"/>
+	<classpathentry kind="lib" path="/Users/Jules/Desktop/ICEpdf-pro-6.2.4-bin-trial/icepdf/lib/bcprov-jdk15on.jar"/>
+	<classpathentry kind="lib" path="/Users/Jules/Desktop/ICEpdf-pro-6.2.4-bin-trial/icepdf/lib/icepdf-core.jar"/>
+	<classpathentry kind="lib" path="/Users/Jules/Desktop/ICEpdf-pro-6.2.4-bin-trial/icepdf/lib/icepdf-extra.jar"/>
+	<classpathentry kind="lib" path="/Users/Jules/Desktop/ICEpdf-pro-6.2.4-bin-trial/icepdf/lib/icepdf-pro-intl.jar"/>
+	<classpathentry kind="lib" path="/Users/Jules/Desktop/ICEpdf-pro-6.2.4-bin-trial/icepdf/lib/icepdf-pro.jar"/>
+	<classpathentry kind="lib" path="/Users/Jules/Desktop/ICEpdf-pro-6.2.4-bin-trial/icepdf/lib/icepdf-viewer.jar"/>
+	<classpathentry kind="lib" path="/Users/Jules/Desktop/ICEpdf-pro-6.2.4-bin-trial/icepdf/lib/levigo-jbig2-imageio.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
